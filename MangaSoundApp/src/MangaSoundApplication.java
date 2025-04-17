@@ -1,8 +1,3 @@
-//Luan Felipe
-// Andrey Ramos Ferraz
-//
-// Arthur Prates
-
 import java.util.Scanner;
 
 public class MangaSoundApplication {

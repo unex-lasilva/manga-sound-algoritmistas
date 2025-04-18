@@ -1,3 +1,9 @@
+//Luan Felipe
+// Andrey Ramos Ferraz
+// Nicolas Santos Sampaio
+// Arthur Prates
+// Marcos Vinicius Duarte Paranhos
+
 import java.util.Scanner;
 
 public class MangaSoundApplication {

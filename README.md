@@ -13,7 +13,7 @@ Um par de fone de ouvido, a sua lista de reprodução favorita e pronto: você e
 
 | Membro / Avaliado         | Andrey Ramos | Luan Felipe | Arthur Prates |  
 |---------------------------|-------------|----------------|---------------------|
-| **Andrey Ramos**           | —           | [10]           | [10]                |
-| **Luan Felipe**         | [10]         | —              | [10]               |
-| **Arthur Prates**    | [10]         | [10]           | —                  |
+| **Andrey Ramos**           | [10]            | [10]           | [10]                |
+| **Luan Felipe**         | [10]         | [10]               | [10]               |
+| **Arthur Prates**    | [10]         | [10]           | [10]                  |
 

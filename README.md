@@ -7,6 +7,14 @@ Um par de fone de ouvido, a sua lista de reprodução favorita e pronto: você e
 <img width="552" alt="image" src="https://github.com/user-attachments/assets/9873181b-511f-42d9-8cf5-5d5966515634" />
 
 
-# Equipe: <nome-da-equipe>
-1. <Nome de fulano>
-2. <Nome de fulana>
+# Equipe: <Algoritmistas>
+
+## 📊 Avaliação entre os Membros
+
+| Membro / Avaliado         | Andrey Ramos | Luan Felipe | Arthur Prates | Nicolas Santos | Marcos Vinicius            |
+|---------------------------|--------------|-------------|---------------|----------------|----------------------------|
+| **Andrey Ramos**          | [10]         | [10]               | [10]               |[10]            | [10]           |
+| **Luan Felipe**           | [10]         | [10]               | [10]               |[10]            | [10]           |
+| **Arthur Prates**         | [10]         | [10]               | [10]               |[10]            | [10]           |
+| **Nicolas Santos**        | [10]         | [10]               | [10]               |[10]            | [10]           |   
+| **Marcos Vinicius**       | [10]         | [10]               | [10]               |[10]            | [10]           |  

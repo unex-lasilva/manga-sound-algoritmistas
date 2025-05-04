@@ -11,9 +11,11 @@ Um par de fone de ouvido, a sua lista de reprodução favorita e pronto: você e
 
 ## 📊 Avaliação entre os Membros
 
-| Membro / Avaliado         | Andrey Ramos | Luan Felipe | Arthur Prates |  
-|---------------------------|-------------|----------------|---------------------|
-| **Andrey Ramos**           | [10]            | [10]           | [10]                |
-| **Luan Felipe**         | [10]         | [10]               | [10]               |
-| **Arthur Prates**    | [10]         | [10]           | [10]                  |
+| Membro / Avaliado         | Andrey Ramos | Luan Felipe | Arthur Prates | Nicolas Santos | Marcos Vinicius            |
+|---------------------------|--------------|-------------|---------------|----------------|----------------------------|
+| **Andrey Ramos**          | [10]         | [10]               | [10]               |[10]            | [10]           |
+| **Luan Felipe**           | [10]         | [10]               | [10]               |[10]            | [10]           |
+| **Arthur Prates**         | [10]         | [10]               | [10]               |[10]            | [10]           |
+| **Nicolas Santos**        | [10]         | [10]               | [10]               |[10]            | [10]           |   
+| **Marcos Vinicius**       | [10]         | [10]               | [10]               |[10]            | [10]           |  
 

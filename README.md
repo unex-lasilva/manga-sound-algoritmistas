@@ -7,7 +7,7 @@ Um par de fone de ouvido, a sua lista de reprodução favorita e pronto: você e
 <img width="552" alt="image" src="https://github.com/user-attachments/assets/9873181b-511f-42d9-8cf5-5d5966515634" />
 
 
-# Equipe: <nome-da-equipe>
+# Equipe: <Algoritmistas>
 
 ## 📊 Avaliação entre os Membros
 
@@ -18,4 +18,3 @@ Um par de fone de ouvido, a sua lista de reprodução favorita e pronto: você e
 | **Arthur Prates**         | [10]         | [10]               | [10]               |[10]            | [10]           |
 | **Nicolas Santos**        | [10]         | [10]               | [10]               |[10]            | [10]           |   
 | **Marcos Vinicius**       | [10]         | [10]               | [10]               |[10]            | [10]           |  
-
